@@ -1,0 +1,2 @@
+Week 3:
+This week was about picking our topics for A1 (assignment 1) and picking a text to use for our paper prototype, I chose Hito Steryl's In Defense of the Poor Image as my topic, we also were introduced to javascript and were given a task to create a face of ourselves using simples shapes, first on paper then coded it, we were given different shapes to explore and it was a unique and funny experience learning about how to position and hierarchy work in shapes.
